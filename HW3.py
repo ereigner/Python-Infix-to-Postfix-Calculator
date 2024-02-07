@@ -1,5 +1,4 @@
 # HW3
-# REMINDER: The work in this assignment must be your own original work and must be completed alone.
 
 class Node:
     def __init__(self, value):
